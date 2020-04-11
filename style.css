@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  background-color: yellow;
+}
+
+h3 {
+  font-style: italic;
+  font-size: 40px;
+  opacity: 3;
+  word-break: normal;
+  text-shadow: 2px 2px 4px pink;
+  }
